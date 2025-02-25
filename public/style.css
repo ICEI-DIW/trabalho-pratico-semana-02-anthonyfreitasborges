@@ -1,0 +1,146 @@
+
+html{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    margin: 0;
+}
+.curriculo-fundo{
+    flex-wrap: wrap;
+    background-color: #ffffff;
+    width: 550px;
+    padding: 3px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    font-family:sans-serif;
+}
+nav{
+    margin-bottom: 10px;
+    font-style: oblique;
+}
+.menu {
+    background-color: #7b7171; 
+    padding: 10px 0; 
+}
+
+.menu ul {
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+    display: flex; 
+    justify-content: center; 
+    gap: 20px;
+}
+
+.menu li {
+    display: inline;
+}
+
+.menu a {
+    text-decoration: none; 
+    color: white; 
+    font-size: 16px;
+    padding: 10px 15px; 
+    transition: 0.3s;
+}
+
+.menu a:hover {
+    background-color: #000000; 
+    border-radius: 5px; 
+}
+
+header{
+    padding-left:10px;
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    background-color: #ece8c4;
+    padding: 15px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+header ul{
+    margin: 0;
+}
+header h4{
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.img h1 {
+    margin: 0;
+    font-size: 20px;
+    color: #333;
+}
+
+.img h4 {
+    margin: 2px 0; 
+    font-size: 16px;
+    color: #666;
+}
+
+.img ul {
+    list-style: none; 
+    padding: 0;
+    margin: 5px 0 0 0; 
+}
+
+.img li {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.2; 
+}
+main{
+    padding-left:10px ;
+    background-color: #cbc7a0;
+}
+main h1{
+    margin-top: 0;
+    padding-top: 10px;
+}
+.img {
+    display: flex;
+    align-items: center; 
+    gap: 10px; 
+}
+
+.img img {
+    width: 80px;
+    height: 80px;
+    height: auto;
+    border-radius: 50%;
+}
+.img div:nth-child(2) { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+}
+
+.img h1 {
+    margin: 0;
+    font-size: 20px;
+    color: #000000; 
+}
+
+.img ul {
+    padding: 0;
+    margin: 5px 0 0 0;
+}
+
+.img li {
+    font-size: 14px;
+    color: #555;
+}
+
+footer{
+    padding-left:10px;
+    background-color: #ece8c4;
+    border-radius: 0px 0px 10px 10px;
+}
+footer ul{
+    column-count: 2;
+    column-gap: 20px; 
+    list-style-position: inside;
+    padding-bottom: 10px;
+}
+footer h1{
+    padding-top: 10px;
+    margin-top: 0px;
+}

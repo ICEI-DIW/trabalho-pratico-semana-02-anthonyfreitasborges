@@ -3,7 +3,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Anthony Freitas Borges
+- Matricula: 894821
 
 ## Print da tela da página criad
+
+![alt text](/public/imagemdatela.png)
