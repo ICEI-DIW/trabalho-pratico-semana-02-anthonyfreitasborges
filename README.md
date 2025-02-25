@@ -7,6 +7,4 @@
 - Matricula: 894821
 
 ## Print da tela da página criad
-![Texto alternativo][def]
-
-[def]: /Captura%20de%20Tela%20(120).png
+![alt text](Captura de Tela (120))
