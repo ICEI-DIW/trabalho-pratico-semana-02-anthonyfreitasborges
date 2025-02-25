@@ -7,4 +7,4 @@
 - Matricula: 894821
 
 ## Print da tela da página criad
-![alt text](/imagem%20da%20tela.png)
+<img src="/trabalho-pratico-semana-02-anthonyfreitasborges/public/imagemdatela.png" alt="Texto Alternativo">
